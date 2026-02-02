@@ -1,0 +1,69 @@
+cv:
+  name: Никита Маначинский
+  location: Ростов-на-Дону, Россия
+  email: manachinsky88@gmail.com
+  phone: "+7 928 302-61-59"
+  
+  social_networks:
+    - network: GitHub
+      username: BUka228
+    - network: Telegram
+      username: nikirO1
+
+  sections:
+    Образование:
+      - institution: Южный федеральный университет (ЮФУ)
+        area: "Бакалавр: Прикладная информатика"
+        date: "09.2022 — 07.2026"
+        highlights:
+          - "Специализация: Мобильная разработка и интеллектуальные системы анализа данных."
+          - "Средний балл: 4.8"
+
+    Навыки:
+      - label: Языки
+        details: Kotlin, Java, C++, Python, SQL
+      - label: Android Core
+        details: Android SDK, Jetpack Compose, Multi-module, Gradle, Clean Arch, MVVM/MVI
+      - label: Сеть & Async
+        details: Coroutines, Flow, Retrofit, WebSocket, OkHttp, REST API
+      - label: Data & Infra
+        details: Room, WorkManager, BLE (Bluetooth), Docker, PostgreSQL, Apache Spark
+
+    Проекты:
+      - company: "[Amulet — IoT Ecosystem (Android + Hardware)](https://github.com/BUka228/amulet_android_app)"
+        position: Full-cycle Development
+        date: "07.2025 — настоящее время"
+        highlights:
+          - "Разработал нативное Android-приложение (Kotlin, Compose) для тактильной коммуникации с многомодульной архитектурой."
+          - "Реализовал протокол общения с BLE-браслетом (Command Queue, Retries), снизив разрывы соединения на 40%."
+          - "Внедрил Offline-first (WorkManager + Room): данные синхронизируются с сервером (Supabase) при появлении сети."
+          - "Написал прошивку для ESP32 (C++) для управления вибромоторами."
+
+      - company: "[P2P Analytics Platform — Data Infrastructure](https://github.com/BUka228/p2p-analytics-platform)"
+        position: Data Engineering
+        date: "03.2025 — 06.2025"
+        highlights:
+          - "Развернул Docker-инфраструктуру (PostgreSQL, Airflow, MinIO, Spark) для сбора и процессинга данных."
+          - "Построил ETL-пайплайны Medallion Architecture (Bronze/Silver/Gold), обеспечив очистку данных."
+          - "Настроил интеграцию с MLflow для версионирования ML-моделей."
+
+      - company: "[ProgressQuest — Gamified ToDo App](https://github.com/BUka228/ProgressQuest)"
+        position: Android Development
+        date: "12.2024 — 06.2025"
+        highlights:
+          - "Создал приложение с геймификацией задач, используя Hilt (DI) и Android Navigation."
+          - "Реализовал полностью реактивный UI на Jetpack Compose с поддержкой Dynamic Colors (Material 3)."
+          - "Настроил CI/CD (GitHub Actions) для автоматической проверки качества кода."
+
+    Сертификаты:
+      - name: "IT Академия Samsung: Большие данные (С ОТЛИЧИЕМ)"
+        date: "06.2025"
+      - name: "IT Академия Samsung: Мобильная разработка на Java"
+        date: "07.2025"
+      - name: "Tinkoff Fintech School: Android Development"
+        date: "02.2026"
+      - name: "Google: Android Basics in Kotlin"
+        date: "09.2023"
+
+design:
+  theme: engineeringresumes
