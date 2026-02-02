@@ -33,8 +33,7 @@
   <img alt="BLE" src="https://img.shields.io/badge/BLE%20%2F%20IoT-0082FC?style=flat&logo=bluetooth&logoColor=white" />
 </p>
 
-[![Resume](https://img.shields.io/badge/Резюме-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](ССЫЛКА_НА_ЯНДЕКС_ДИСК_ИЛИ_ФАЙЛ) [![HH.ru](https://img.shields.io/badge/HH.ru-Profile-red?style=for-the-badge&logo=headhunter)](https://rostov.hh.ru/resume/f8bf939fff0ff813ee0039ed1f6d78366a314e) [![Telegram](https://img.shields.io/badge/Telegram-Написать_мне-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/nikirO1) [![Email](https://img.shields.io/badge/Email-manachinsky88@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:manachinsky88@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](ССЫЛКА_НА_LINKEDIN)
-
+[![Resume](https://img.shields.io/badge/Резюме-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/BUka228/BUka228/blob/main/docs/Nikita_Manachinsky_Android_Dev.pdf) [![HH.ru](https://img.shields.io/badge/HH.ru-Profile-red?style=for-the-badge&logo=headhunter)](https://rostov.hh.ru/resume/f8bf939fff0ff813ee0039ed1f6d78366a314e) [![Telegram](https://img.shields.io/badge/Telegram-Написать_мне-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/nikirO1) [![Email](https://img.shields.io/badge/Email-manachinsky88@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:manachinsky88@gmail.com)
 </div>
 
 ---
