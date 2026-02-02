@@ -162,6 +162,6 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=BUka228&show_icons=true&hide_title=true&rank_icon=github&theme=tokyonight&cache_seconds=21600" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BUka228&layout=compact&theme=tokyonight&cache_seconds=21600" />
+<img height="160" src="https://github-readme-stats-oxyk.vercel.app/api?username=BUka228&show_icons=true&hide_title=true&rank_icon=github&theme=tokyonight&cache_seconds=21600" />
+<img height="160" src="https://github-readme-stats-oxyk.vercel.app/api/top-langs/?username=BUka228&layout=compact&theme=tokyonight&cache_seconds=21600" />
 </div>
