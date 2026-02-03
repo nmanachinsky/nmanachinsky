@@ -142,11 +142,11 @@
  - **Стек:** Docker Compose, Apache Airflow, Apache Spark, HDFS, PostgreSQL, MinIO.
  - **Результат:** Реализована "Медальонная архитектура" (Bronze/Silver/Gold layers), обеспечивающая полный цикл жизни данных от сырого вида до BI-витрин.
 
-🔗 **Репозиторий:** [github.com/BUka228/p2p-analytics-platform](https://github.com/nmanachinsky/p2p-analytics-platform)
+🔗 **Репозиторий:** [github.com/nmanachinsky/p2p-analytics-platform](https://github.com/nmanachinsky/p2p-analytics-platform)
 
 ---
 
-### 3️⃣ ProgressQuest — Productivity & Gamification
+### 3️⃣ ProgressQuest — Productivity & GamificationА
 
 Классическое Android-приложение, демонстрирующее **Clean Architecture** и **Modern Android Development (MAD)**.
 
@@ -154,7 +154,7 @@
 - **Tech:** Hilt, Room, Firebase (Auth, Cloud Functions).
 - **Фича:** Геймификация задач (RPG-система) с синхронизацией в реальном времени.
 
-🔗 **Репозиторий:** [github.com/BUka228/ProgressQuest](https://github.com/nmanachinsky/ProgressQuest)
+🔗 **Репозиторий:** [github.com/nmanachinsky/ProgressQuest](https://github.com/nmanachinsky/ProgressQuest)
 
 ---
 
