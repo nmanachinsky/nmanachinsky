@@ -33,7 +33,7 @@
   <img alt="BLE" src="https://img.shields.io/badge/BLE%20%2F%20IoT-0082FC?style=flat&logo=bluetooth&logoColor=white" />
 </p>
 
-[![Resume](https://img.shields.io/badge/Резюме-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/BUka228/BUka228/blob/main/docs/Nikita_Manachinsky_Android_Dev.pdf) [![HH.ru](https://img.shields.io/badge/HH.ru-Profile-red?style=for-the-badge&logo=headhunter)](https://rostov.hh.ru/resume/f8bf939fff0ff813ee0039ed1f6d78366a314e) [![Telegram](https://img.shields.io/badge/Telegram-Написать_мне-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/nikirO1) [![Email](https://img.shields.io/badge/Email-manachinsky88@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:manachinsky88@gmail.com)
+[![Resume](https://img.shields.io/badge/Резюме-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/nmanachinsky/nmanachinsky/blob/main/docs/Nikita_Manachinsky_Android_Dev.pdf) [![HH.ru](https://img.shields.io/badge/HH.ru-Profile-red?style=for-the-badge&logo=headhunter)](https://rostov.hh.ru/resume/f8bf939fff0ff813ee0039ed1f6d78366a314e) [![Telegram](https://img.shields.io/badge/Telegram-Написать_мне-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/nikirO1) [![Email](https://img.shields.io/badge/Email-manachinsky88@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:manachinsky88@gmail.com)
 </div>
 
 ---
@@ -77,7 +77,7 @@
 - **Сложный BLE:** Реализован собственный менеджер очереди команд (Command Queue), защита от потери пакетов, OTA-обновление прошивки.
 - **Отказоустойчивость:** Offline-first подход (Outbox pattern) через WorkManager — данные уходят на сервер, когда появляется сеть.
 
-🔗 **Ссылки:** [Android App](https://github.com/BUka228/amulet_android_app) | [Backend](https://github.com/BUka228/amulet_backend) | [Firmware](https://github.com/BUka228/Amulet_Firmware)
+🔗 **Ссылки:** [Android App](https://github.com/nmanachinsky/amulet_android_app) | [Backend](https://github.com/nmanachinsky/amulet_backend) | [Firmware](https://github.com/nmanachinsky/Amulet_Firmware)
 
 ---
 
@@ -142,7 +142,7 @@
  - **Стек:** Docker Compose, Apache Airflow, Apache Spark, HDFS, PostgreSQL, MinIO.
  - **Результат:** Реализована "Медальонная архитектура" (Bronze/Silver/Gold layers), обеспечивающая полный цикл жизни данных от сырого вида до BI-витрин.
 
-🔗 **Репозиторий:** [github.com/BUka228/p2p-analytics-platform](https://github.com/BUka228/p2p-analytics-platform)
+🔗 **Репозиторий:** [github.com/BUka228/p2p-analytics-platform](https://github.com/nmanachinsky/p2p-analytics-platform)
 
 ---
 
@@ -154,13 +154,13 @@
 - **Tech:** Hilt, Room, Firebase (Auth, Cloud Functions).
 - **Фича:** Геймификация задач (RPG-система) с синхронизацией в реальном времени.
 
-🔗 **Репозиторий:** [github.com/BUka228/ProgressQuest](https://github.com/BUka228/ProgressQuest)
+🔗 **Репозиторий:** [github.com/BUka228/ProgressQuest](https://github.com/nmanachinsky/ProgressQuest)
 
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-<img height="160" src="https://github-readme-stats-oxyk.vercel.app/api?username=BUka228&show_icons=true&hide_title=true&rank_icon=github&theme=tokyonight&cache_seconds=21600" />
-<img height="160" src="https://github-readme-stats-oxyk.vercel.app/api/top-langs/?username=BUka228&layout=compact&theme=tokyonight&cache_seconds=21600" />
+<img height="160" src="https://github-readme-stats-oxyk.vercel.app/api?username=nmanachinsky&show_icons=true&hide_title=true&rank_icon=github&theme=tokyonight&cache_seconds=21600" />
+<img height="160" src="https://github-readme-stats-oxyk.vercel.app/api/top-langs/?username=nmanachinsky&layout=compact&theme=tokyonight&cache_seconds=21600" />
 </div>
