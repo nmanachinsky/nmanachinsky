@@ -6,62 +6,66 @@ cv:
   
   social_networks:
     - network: GitHub
-      username: BUka228
+      username: nmanachinsky
     - network: Telegram
       username: nikirO1
 
   sections:
+    Профиль:
+      - "Android-разработчик с фокусом на инженерную культуру и архитектуру. Имею опыт создания масштабируемых многомодульных приложений (Kotlin Multiplatform, Clean Arch)."
+      - "В личных проектах внедряю практики командной разработки: автоматизацию сборки (Gradle Convention Plugins), статический анализ (Detekt) и архитектурное тестирование (ArchUnit). Умею работать с нестабильными каналами связи (BLE) и сложной асинхронностью."
+
+    Навыки:
+      - label: Android & Kotlin
+        details: Kotlin, Java, Jetpack Compose (Material 3), KMP, Coroutines, Flow, Hilt, Room, WorkManager
+      - label: Build & Quality
+        details: Gradle (KTS, Convention Plugins), Detekt, ArchUnit, Git (Flow), Makefile
+      - label: Network & Async
+        details: REST API, WebSocket, OkHttp, Retrofit, BLE (Bluetooth Low Energy)
+      - label: Infrastructure
+        details: Docker, Docker Compose, PostgreSQL, Linux (Bash), Python, C++
+
+    Проекты:
+      - company: "[Amulet — IoT Ecosystem (Android + Hardware)](https://github.com/nmanachinsky/amulet_android_app)"
+        position: Founder & Lead Engineer, Amulet (Startup Prototype)
+        date: "07.2025 — настоящее время"
+        highlights:
+          - "Спроектировал многомодульную архитектуру KMP: доменная логика изолирована в shared-модуле."
+          - "Реализовал собственную систему сборки на базе **Gradle Convention Plugins** для централизованного управления зависимостями и настройками модулей."
+          - "Внедрил **Architecture Tests (ArchUnit)** для автоматического контроля графа зависимостей и соблюдения правил Clean Architecture."
+          - "Разработал надежный протокол общения по BLE: реализовал очередь команд (Command Queue) и механизм ретраев, снизив количество разрывов соединения на 40%."
+          - "Настроил Offline-first синхронизацию данных (Room + WorkManager) с бэкендом (Supabase)."
+
+      - company: "[ProgressQuest — Gamified ToDo App](https://github.com/nmanachinsky/ProgressQuest)"
+        position: Android Developer
+        date: "12.2024 — 06.2025"
+        highlights:
+          - "Разработал Fully-Compose приложение с реактивным UI. Реализовал сложный StateFlow-пайплайн для экрана «Сегодня», объединяющий потоки данных задач и настройки отображения."
+          - "Организовал управление зависимостями через Hilt с разделением на Core и Feature скоупы."
+
+      - company: "[P2P Analytics Platform — Infrastructure](https://github.com/nmanachinsky/p2p-analytics-platform)"
+        position: Infrastructure Engineer
+        date: "03.2025 — 06.2025"
+        highlights:
+          - "Спроектировал и развернул инфраструктуру проекта в Docker. Написал Makefile для «one-command» развертывания всего окружения (Postgres, MinIO, Services) на любой машине."
+          - "Отвечал за стабильность сервисов и воспроизводимость среды разработки (Infrastructure as Code)."
+          - "Получил опыт работы с Linux-окружением и контейнеризацией баз данных."
+
     Образование:
       - institution: Южный федеральный университет (ЮФУ)
         area: "Бакалавр: Прикладная информатика"
         date: "09.2022 — 07.2026"
         highlights:
-          - "Специализация: Мобильная разработка и интеллектуальные системы анализа данных."
+          - "Специализация: Мобильная разработка"
           - "Средний балл: 4.8"
 
-    Навыки:
-      - label: Языки
-        details: Kotlin, Java, C++, Python, SQL
-      - label: Android Core
-        details: Android SDK, Jetpack Compose, Multi-module, Gradle, Clean Arch, MVVM/MVI
-      - label: Сеть & Async
-        details: Coroutines, Flow, Retrofit, WebSocket, OkHttp, REST API
-      - label: Data & Infra
-        details: Room, WorkManager, BLE (Bluetooth), Docker, PostgreSQL, Apache Spark
-
-    Проекты:
-      - company: "[Amulet — IoT Ecosystem (Android + Hardware)](https://github.com/BUka228/amulet_android_app)"
-        position: Full-cycle Development
-        date: "07.2025 — настоящее время"
-        highlights:
-          - "Разработал нативное Android-приложение (Kotlin, Compose) для тактильной коммуникации с многомодульной архитектурой."
-          - "Реализовал протокол общения с BLE-браслетом (Command Queue, Retries), снизив разрывы соединения на 40%."
-          - "Внедрил Offline-first (WorkManager + Room): данные синхронизируются с сервером (Supabase) при появлении сети."
-          - "Написал прошивку для ESP32 (C++) для управления вибромоторами."
-
-      - company: "[P2P Analytics Platform — Data Infrastructure](https://github.com/BUka228/p2p-analytics-platform)"
-        position: Data Engineering
-        date: "03.2025 — 06.2025"
-        highlights:
-          - "Развернул Docker-инфраструктуру (PostgreSQL, Airflow, MinIO, Spark) для сбора и процессинга данных."
-          - "Построил ETL-пайплайны Medallion Architecture (Bronze/Silver/Gold), обеспечив очистку данных."
-          - "Настроил интеграцию с MLflow для версионирования ML-моделей."
-
-      - company: "[ProgressQuest — Gamified ToDo App](https://github.com/BUka228/ProgressQuest)"
-        position: Android Development
-        date: "12.2024 — 06.2025"
-        highlights:
-          - "Создал приложение с геймификацией задач, используя Hilt (DI) и Android Navigation."
-          - "Реализовал полностью реактивный UI на Jetpack Compose с поддержкой Dynamic Colors (Material 3)."
-          - "Настроил CI/CD (GitHub Actions) для автоматической проверки качества кода."
-
     Сертификаты:
-      - name: "IT Академия Samsung: Большие данные (С ОТЛИЧИЕМ)"
-        date: "06.2025"
-      - name: "IT Академия Samsung: Мобильная разработка на Java"
-        date: "07.2025"
       - name: "Tinkoff Fintech School: Android Development"
         date: "02.2026"
+      - name: "IT Академия Samsung: Мобильная разработка на Java"
+        date: "07.2025"
+      - name: "IT Академия Samsung: Большие данные (С отличием)"
+        date: "06.2025"
       - name: "Google: Android Basics in Kotlin"
         date: "09.2023"
 
